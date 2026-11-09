@@ -1,19 +1,18 @@
-﻿# HoopTabs
+# HoopTabs
 
-Live stats and a simulated social feed for **Hoop Land**. It reads your save folder and updates as you play.
+Live stats and a simulated social feed for **Hoop Land**. HoopTabs reads your save folder and updates as you play.
 
-## PC (Windows)
+## Download for Windows
 
 **[Download HoopTabs-Setup.exe](https://github.com/cotanick/hooptabs-download/releases/latest/download/HoopTabs-Setup.exe)**
 
-The installer isn't code-signed yet, so Windows SmartScreen may say "Windows protected your PC".
-Click **More info**, then **Run anyway**.
+The installer isn't code-signed yet, so Windows SmartScreen may say "Windows protected your PC". Click **More info**, then **Run anyway**.
 
-**Updates:** open HoopTabs, go to **Settings â†’ Updates**. When a new version is out, press **Update now**. There is no need to download the installer again.
+**Updates:** open HoopTabs and go to **Settings → Updates**. When a new version is out, press **Update now**. You don't need to download the installer again.
 
 ## Phone (iPhone and Android)
 
-Open **hooptabs.com** on your phone and add it to your home screen. The sign-in page shows the steps for your phone. The phone app updates itself.
+Open **[hooptabs.com](https://hooptabs.com)** on your phone and add it to your home screen. The sign-in page shows the steps for your phone. The phone app updates itself.
 
 ## Notes
 
